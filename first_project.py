@@ -1,3 +1,4 @@
+print("Walcome your basic ATM")
 print("1.Check Balance")
 print("2.Debit Money")
 print("3.Withdraw Money")
